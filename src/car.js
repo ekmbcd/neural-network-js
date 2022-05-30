@@ -159,7 +159,7 @@ class Car {
     // ctx.restore()
 
     if (this.damaged) {
-      ctx.fillStyle = "gray"
+      return
     } else {
       ctx.fillStyle = color
     }
