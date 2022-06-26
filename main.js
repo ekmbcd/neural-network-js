@@ -1,4 +1,4 @@
-const N = 100
+const N = 500
 
 const carCanvas = document.getElementById('carCanvas')
 carCanvas.height = window.innerHeight
